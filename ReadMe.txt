@@ -1,0 +1,1 @@
+This is a practice solution to get used to using C#, Visual Studio, to make an android application.
